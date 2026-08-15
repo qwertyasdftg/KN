@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Pulihkan lingkungan dari repo KN2 (pip · yarn · seed · build FE)",
+    "status": "completed"
+  },
+  {
+    "content": "Audit status E-9: apa yang sudah ditulis sesi terputus (BE+FE) vs yang belum diverifikasi",
+    "status": "completed"
+  },
+  {
+    "content": "POC E-9 HIJAU 43/43 nol residu · tahan seed-ulang · asersi uang berbasis SELISIH",
+    "status": "completed"
+  },
+  {
+    "content": "Bukti-merah: pra-sesi 2 FAIL · sabotase R1 8 FAIL · sabotase R4-penuh 3 FAIL",
+    "status": "completed"
+  },
+  {
+    "content": "Tutup 2 gate MERAH warisan sesi E-9 terputus: kebocoran id entitas di jejak roll (4) + debug print",
+    "status": "completed"
+  },
+  {
+    "content": "Tutup 2 pelanggaran invarian: INV-IC-08 (jurnal barang retur) & INV-REF-01 (nota kredit yatim) — 236 PASS/0 FAIL",
+    "status": "completed"
+  },
+  {
+    "content": "Daftarkan POC E-9 di gate.sh + perluas gate_residue WATCH (retur/lot/kontrak)",
+    "status": "completed"
+  },
+  {
+    "content": "Data demo rantai retur (seed_e9_chain_demo.py) supaya layar E-9 bisa dilihat",
+    "status": "completed"
+  },
+  {
+    "content": "FE: panel Jejak Retur di layar retur beli · lencana ringkasan · tampilkan selisih nilai barang retur",
+    "status": "in_progress"
+  },
+  {
+    "content": "gate.sh --full HIJAU 2×",
+    "status": "pending"
+  },
+  {
+    "content": "testing_agent_v3: user story 23–29 (backend + frontend)",
+    "status": "pending"
+  },
+  {
+    "content": "Perbarui plan.md · SESSION_HANDOFF.md · CODEBASE_MAP.md · memory/test_credentials.md",
+    "status": "pending"
+  }
+]
